@@ -1,4 +1,4 @@
-# Classwork on Android intents
+# Classwork on Android Intents
 
 Answer these questions on Intents. Enter your answer below all possible answers:
 
