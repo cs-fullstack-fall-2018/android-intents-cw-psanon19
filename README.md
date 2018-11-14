@@ -13,7 +13,7 @@ C) The second Activity is added as a Java class, the XML layout file is created,
 
 D) The second Activity XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.
 
-## Question 3
+## Question 2
 Which constructor method do you use to create a new explicit Intent? Choose one:
 
 A) new Intent()
@@ -24,3 +24,5 @@ C) new Intent(String action, Uri uri)
 
 D) new Intent(String action)
 
+## Extra
+Add an extra button to the Main Activity in the attached project that uses an implicit intents so that Android runtime opens up http://www.google.com 
